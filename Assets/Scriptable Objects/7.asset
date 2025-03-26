@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5826e392708c17943b9d23a740ba9df6, type: 3}
+  m_Name: 7
+  m_EditorClassIdentifier: 
+  nameText: Mestari
+  cardImage: {fileID: 21300000, guid: 76fd9b105d5a65b4b982cb1c2b6bd174, type: 3}
+  cardInfo: "Kortin nostajasta tulee kysymys-mestari, jolloin h\xE4nen kysymyksiins\xE4
+    vastaaja juo 3 h\xF6rppy\xE4."
